@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\bin\Debug\net6.0\struct.exe
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\bin\Debug\net6.0\struct.deps.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\bin\Debug\net6.0\struct.runtimeconfig.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\bin\Debug\net6.0\struct.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\bin\Debug\net6.0\struct.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\obj\Debug\net6.0\struct.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\obj\Debug\net6.0\struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\obj\Debug\net6.0\struct.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\obj\Debug\net6.0\struct.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\obj\Debug\net6.0\struct.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\obj\Debug\net6.0\struct.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\obj\Debug\net6.0\refint\struct.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\obj\Debug\net6.0\struct.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\obj\Debug\net6.0\struct.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\struct\obj\Debug\net6.0\ref\struct.dll

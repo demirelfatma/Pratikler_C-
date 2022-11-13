@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\bin\Debug\net6.0\dizilersınıf.exe
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\bin\Debug\net6.0\dizilersınıf.deps.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\bin\Debug\net6.0\dizilersınıf.runtimeconfig.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\bin\Debug\net6.0\dizilersınıf.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\bin\Debug\net6.0\dizilersınıf.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\obj\Debug\net6.0\dizilersınıf.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\obj\Debug\net6.0\dizilersınıf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\obj\Debug\net6.0\dizilersınıf.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\obj\Debug\net6.0\dizilersınıf.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\obj\Debug\net6.0\dizilersınıf.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\obj\Debug\net6.0\dizilersınıf.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\obj\Debug\net6.0\refint\dizilersınıf.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\obj\Debug\net6.0\dizilersınıf.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\obj\Debug\net6.0\dizilersınıf.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\dizilersınıf\obj\Debug\net6.0\ref\dizilersınıf.dll

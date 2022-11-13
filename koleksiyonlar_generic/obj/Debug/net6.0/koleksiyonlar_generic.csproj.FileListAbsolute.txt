@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\bin\Debug\net6.0\koleksiyonlar_generic.exe
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\bin\Debug\net6.0\koleksiyonlar_generic.deps.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\bin\Debug\net6.0\koleksiyonlar_generic.runtimeconfig.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\bin\Debug\net6.0\koleksiyonlar_generic.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\bin\Debug\net6.0\koleksiyonlar_generic.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\obj\Debug\net6.0\koleksiyonlar_generic.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\obj\Debug\net6.0\koleksiyonlar_generic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\obj\Debug\net6.0\koleksiyonlar_generic.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\obj\Debug\net6.0\koleksiyonlar_generic.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\obj\Debug\net6.0\koleksiyonlar_generic.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\obj\Debug\net6.0\koleksiyonlar_generic.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\obj\Debug\net6.0\refint\koleksiyonlar_generic.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\obj\Debug\net6.0\koleksiyonlar_generic.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\obj\Debug\net6.0\koleksiyonlar_generic.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\koleksiyonlar_generic\obj\Debug\net6.0\ref\koleksiyonlar_generic.dll

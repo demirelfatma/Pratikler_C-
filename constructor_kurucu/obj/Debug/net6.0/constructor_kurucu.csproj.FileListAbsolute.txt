@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\obj\Debug\net6.0\constructor_kurucu.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\obj\Debug\net6.0\constructor_kurucu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\obj\Debug\net6.0\constructor_kurucu.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\obj\Debug\net6.0\constructor_kurucu.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\obj\Debug\net6.0\constructor_kurucu.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\bin\Debug\net6.0\constructor_kurucu.exe
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\bin\Debug\net6.0\constructor_kurucu.deps.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\bin\Debug\net6.0\constructor_kurucu.runtimeconfig.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\bin\Debug\net6.0\constructor_kurucu.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\bin\Debug\net6.0\constructor_kurucu.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\obj\Debug\net6.0\constructor_kurucu.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\obj\Debug\net6.0\refint\constructor_kurucu.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\obj\Debug\net6.0\constructor_kurucu.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\obj\Debug\net6.0\constructor_kurucu.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\constructor_kurucu\obj\Debug\net6.0\ref\constructor_kurucu.dll

@@ -1,0 +1,15 @@
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\obj\Debug\net6.0\Pratikler.csproj.AssemblyReference.cache
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\obj\Debug\net6.0\Pratikler.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\obj\Debug\net6.0\Pratikler.AssemblyInfoInputs.cache
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\obj\Debug\net6.0\Pratikler.AssemblyInfo.cs
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\obj\Debug\net6.0\Pratikler.csproj.CoreCompileInputs.cache
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\bin\Debug\net6.0\Pratikler.exe
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\bin\Debug\net6.0\Pratikler.deps.json
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\bin\Debug\net6.0\Pratikler.runtimeconfig.json
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\bin\Debug\net6.0\Pratikler.dll
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\bin\Debug\net6.0\Pratikler.pdb
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\obj\Debug\net6.0\Pratikler.dll
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\obj\Debug\net6.0\refint\Pratikler.dll
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\obj\Debug\net6.0\Pratikler.pdb
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\obj\Debug\net6.0\Pratikler.genruntimeconfig.cache
+c:\Users\Acer\OneDrive\Masaüstü\Pratikler\obj\Debug\net6.0\ref\Pratikler.dll

@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\bin\Debug\net6.0\sınıf_giris.exe
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\bin\Debug\net6.0\sınıf_giris.deps.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\bin\Debug\net6.0\sınıf_giris.runtimeconfig.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\bin\Debug\net6.0\sınıf_giris.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\bin\Debug\net6.0\sınıf_giris.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\obj\Debug\net6.0\sınıf_giris.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\obj\Debug\net6.0\sınıf_giris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\obj\Debug\net6.0\sınıf_giris.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\obj\Debug\net6.0\sınıf_giris.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\obj\Debug\net6.0\sınıf_giris.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\obj\Debug\net6.0\sınıf_giris.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\obj\Debug\net6.0\refint\sınıf_giris.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\obj\Debug\net6.0\sınıf_giris.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\obj\Debug\net6.0\sınıf_giris.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\sınıf_giris\obj\Debug\net6.0\ref\sınıf_giris.dll

@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\bin\Debug\net6.0\operatorler.exe
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\bin\Debug\net6.0\operatorler.deps.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\bin\Debug\net6.0\operatorler.runtimeconfig.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\bin\Debug\net6.0\operatorler.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\bin\Debug\net6.0\operatorler.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\obj\Debug\net6.0\operatorler.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\obj\Debug\net6.0\operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\obj\Debug\net6.0\operatorler.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\obj\Debug\net6.0\operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\obj\Debug\net6.0\operatorler.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\obj\Debug\net6.0\refint\operatorler.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\obj\Debug\net6.0\operatorler.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\obj\Debug\net6.0\operatorler.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\operatorler\obj\Debug\net6.0\ref\operatorler.dll

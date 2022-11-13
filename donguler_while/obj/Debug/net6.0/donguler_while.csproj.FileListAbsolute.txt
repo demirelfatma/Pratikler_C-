@@ -1,0 +1,5 @@
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\donguler_while\obj\Debug\net6.0\donguler_while.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\donguler_while\obj\Debug\net6.0\donguler_while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\donguler_while\obj\Debug\net6.0\donguler_while.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\donguler_while\obj\Debug\net6.0\donguler_while.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\donguler_while\obj\Debug\net6.0\donguler_while.csproj.CoreCompileInputs.cache

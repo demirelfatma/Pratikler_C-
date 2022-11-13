@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\bin\Debug\net6.0\hazır_metotlar_math.exe
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\bin\Debug\net6.0\hazır_metotlar_math.deps.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\bin\Debug\net6.0\hazır_metotlar_math.runtimeconfig.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\bin\Debug\net6.0\hazır_metotlar_math.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\bin\Debug\net6.0\hazır_metotlar_math.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\obj\Debug\net6.0\hazır_metotlar_math.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\obj\Debug\net6.0\hazır_metotlar_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\obj\Debug\net6.0\hazır_metotlar_math.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\obj\Debug\net6.0\hazır_metotlar_math.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\obj\Debug\net6.0\hazır_metotlar_math.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\obj\Debug\net6.0\hazır_metotlar_math.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\obj\Debug\net6.0\refint\hazır_metotlar_math.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\obj\Debug\net6.0\hazır_metotlar_math.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\obj\Debug\net6.0\hazır_metotlar_math.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\hazır_metotlar_math\obj\Debug\net6.0\ref\hazır_metotlar_math.dll

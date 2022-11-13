@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\bin\Debug\net6.0\static_sinif.exe
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\bin\Debug\net6.0\static_sinif.deps.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\bin\Debug\net6.0\static_sinif.runtimeconfig.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\bin\Debug\net6.0\static_sinif.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\bin\Debug\net6.0\static_sinif.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\obj\Debug\net6.0\static_sinif.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\obj\Debug\net6.0\static_sinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\obj\Debug\net6.0\static_sinif.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\obj\Debug\net6.0\static_sinif.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\obj\Debug\net6.0\static_sinif.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\obj\Debug\net6.0\static_sinif.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\obj\Debug\net6.0\refint\static_sinif.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\obj\Debug\net6.0\static_sinif.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\obj\Debug\net6.0\static_sinif.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\static_sinif\obj\Debug\net6.0\ref\static_sinif.dll

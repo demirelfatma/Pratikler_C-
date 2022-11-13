@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "sınıf_giris/1.0.0": {
+        "runtime": {
+          "sınıf_giris.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "sınıf_giris/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

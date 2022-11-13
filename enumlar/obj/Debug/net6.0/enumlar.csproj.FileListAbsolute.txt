@@ -1,0 +1,15 @@
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\bin\Debug\net6.0\enumlar.exe
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\bin\Debug\net6.0\enumlar.deps.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\bin\Debug\net6.0\enumlar.runtimeconfig.json
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\bin\Debug\net6.0\enumlar.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\bin\Debug\net6.0\enumlar.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\obj\Debug\net6.0\enumlar.csproj.AssemblyReference.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\obj\Debug\net6.0\enumlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\obj\Debug\net6.0\enumlar.AssemblyInfoInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\obj\Debug\net6.0\enumlar.AssemblyInfo.cs
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\obj\Debug\net6.0\enumlar.csproj.CoreCompileInputs.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\obj\Debug\net6.0\enumlar.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\obj\Debug\net6.0\refint\enumlar.dll
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\obj\Debug\net6.0\enumlar.pdb
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\obj\Debug\net6.0\enumlar.genruntimeconfig.cache
+C:\Users\Acer\OneDrive\Masaüstü\Pratikler\enumlar\obj\Debug\net6.0\ref\enumlar.dll
